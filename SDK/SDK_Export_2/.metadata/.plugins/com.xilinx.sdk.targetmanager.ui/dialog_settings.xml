@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="hw_platform_0-bmmFile"/>
+	<item value="D:\duc\freelancer\8_2015\Moore\Moore_Voting_v4\Moore_Voting.sdk\SDK\SDK_Export\hw_platform_0\system_wrapper.bit" key="hw_platform_0-bitFile"/>
+	<item value="true" key="hw_platform_0-runResetZynq"/>
+	<item value="Local" key="hw_platform_0-target"/>
+</section>
